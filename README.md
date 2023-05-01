@@ -8,3 +8,9 @@ Check out my work:
 - [Android App](https://beyondspacenews.com/android)
 
 Contact me via [email](mailto:ivanbegonja123@gmail.com)
+
+Currently making projects with Appwrite:
+
+<a href="https://makers.appwrite.io/SIrius3615">
+    <img src="https://appwrite.io/cards/makers/SIrius3615" alt="SIrius3615's Maker Card" />
+</a>
