@@ -7,7 +7,7 @@ Check out my work:
 - [iOS App](https://beyondspacenews.com/ios)
 - [Android App](https://beyondspacenews.com/android)
 
-Contact me via [email](mailto:ivanbegonja123@gmail.com)
+Contact me via [email](mailto:ivan@wawehome.com)
 
 Currently making projects with Appwrite:
 
