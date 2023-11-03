@@ -7,10 +7,9 @@ Check out my work:
 - [iOS App](https://beyondspacenews.com/ios)
 - [Android App](https://beyondspacenews.com/android)
 
+My startup:
+- [wawe](https://wawehome.com/) smart home
+
 Contact me via [email](mailto:ivan@wawehome.com)
 
-Currently making projects with Appwrite:
-
-<a href="https://makers.appwrite.io/SIrius3615">
-    <img src="https://appwrite.io/cards/makers/SIrius3615" height=200px alt="SIrius3615's Maker Card" />
-</a>
+Currently making projects with Appwrite.
