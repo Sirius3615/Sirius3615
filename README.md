@@ -1,6 +1,7 @@
 # Hi I am Ivan!
 
-I am an app/web developer! (Flutter, NuxtJs, NodeJs, Javascript)
+I am an app/web developer! (Flutter, NuxtJs, Vue, NodeJs, Javascript, TailvindCSS)
+Also familiar with Firebase and Appwrite
 
 Check out my work:
 - [beyondspacenews.com](https://beyondspacenews.com/)
