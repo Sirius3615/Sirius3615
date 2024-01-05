@@ -18,6 +18,6 @@ Check out my work:
 - [wawehome.com](https://wawehome.com/) (WIP 🚧)
 
 Contact me via:
-- [email](mailto:ivan@wawehome.com)
+- [Email](mailto:ivan@wawehome.com)
 - [X/Twitter](https://x.com/the_ivan0/)
 - Discord (ivan.001)
