@@ -21,3 +21,5 @@ Contact me via:
 - [Email](mailto:ivan@wawehome.com)
 - [X/Twitter](https://x.com/the_ivan0/)
 - Discord (ivan.001)
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b195da07ac0e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
