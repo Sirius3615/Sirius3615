@@ -1,8 +1,8 @@
 # Hi I am Ivan!
 
-I develop applications and websites. I'm experienced in Flutter, Nuxt.js, Vue, Node.js, and JavaScript. Additionally, I'm skilled in Tailwind CSS for modern easy to use designs.
+I develop applications and websites. I'm experienced in Flutter, Nuxt.js, Vue, Node.js, and JavaScript. Also I'm skilled in Tailwind CSS (beyondspacenews.com is build with it).
 
-In hardware development, I work with ESP32 and Arduino for ESP projects, merging software and hardware for integrated IoT solutions.
+In hardware development, I work with ESP32 and Arduino for ESP projects for integrated IoT solutions.
 
 I am also familiar with cloud-based services like Firebase and Appwrite.
 
@@ -16,6 +16,8 @@ Check out my work:
     - [iOS App](https://beyondspacenews.com/ios)
     - [Android App](https://beyondspacenews.com/android)
 - [wawehome.com](https://wawehome.com/) (WIP 🚧)
+    - [iOS App](https://apps.apple.com/app/wawe-home/id6471295872)
+    - [Android App](https://play.google.com/store/apps/details?id=com.wawehome.app)
 
 Contact me via:
 - [Email](mailto:ivan@wawehome.com)
