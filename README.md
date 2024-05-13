@@ -17,11 +17,11 @@ Check out my work:
     - [iOS App](https://beyondspacenews.com/ios)
     - [Android App](https://beyondspacenews.com/android)
 - [wawehome.com](https://wawehome.com/) (WIP 🚧)
-- Smart home platform that's based on modular switches, app is built in Flutter while for the server it uses Appwrite. Hardware is built on ESP, 32 currently programmed in Arduino. Project is meant to make smart homes, simple and smart again.
+- Smart home platform that's based on modular switches, app is built in Flutter while for the server it uses Appwrite. Hardware is built on ESP, 32 currently programmed in Arduino. Project is meant to make smart homes simple and smart again. It packs a lot of powerful features which hard to find elsewhere.
     - [iOS App](https://apps.apple.com/app/wawe-home/id6471295872)
     - [Android App](https://play.google.com/store/apps/details?id=com.wawehome.app)
 - [ssteh.com](https://ssteh.com/)
-- Platform made for students of middle schools, where they can share, and I will hold documents for their classes, app is built in Flutter, the server being Appwrite.
+- Platform made for students of high schools, where they can share, and I will hold documents for their classes, app is built in Flutter, the server being Appwrite.
    - [iOS App](https://apps.apple.com/hr/app/ssteh/id6444681703)
    - [Android App](https://play.google.com/store/apps/details?id=com.beyondspacenews.ssteh&pli=1)
 
