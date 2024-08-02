@@ -11,15 +11,18 @@ Hailing from Croatia, my passion lies in exploring the realms of electricity, el
 
 My perspective leans towards the positive side of things, embracing optimism as a guiding principle. Being a self-proclaimed tech enthusiast, I eagerly anticipate the endless possibilities that the future holds, especially in the realm of electric cars and mobility.
 
-Check out my work:
-- [beyondspacenews.com](https://beyondspacenews.com/)
-- Website and app for space news, uses Space Devs Apis for data. Website is built in Nuxt and app in Flutter. 
-    - [iOS App](https://beyondspacenews.com/ios)
-    - [Android App](https://beyondspacenews.com/android)
-- [wawehome.com](https://wawehome.com/) (WIP 🚧)
+My current work:
+
+[wawehome.com](https://wawehome.com/) (WIP 🚧)
 - Smart home platform that's based on modular switches, app is built in Flutter while for the server it uses Appwrite. Hardware is built on ESP, 32 currently programmed in Arduino. Project is meant to make smart homes simple and smart again. It packs a lot of powerful features which hard to find elsewhere.
     - [iOS App](https://apps.apple.com/app/wawe-home/id6471295872)
     - [Android App](https://play.google.com/store/apps/details?id=com.wawehome.app)
+      
+My past work:
+- [beyondspacenews.com](https://beyondspacenews.com/) (Shut-down)
+- Website and app for space news, uses Space Devs Apis for data. Website is built in Nuxt and app in Flutter. 
+    - [iOS App](https://beyondspacenews.com/ios)
+    - [Android App](https://beyondspacenews.com/android)
 - [ssteh.com](https://ssteh.com/)
 - Platform made for students of high schools, where they can share, and I will hold documents for their classes, app is built in Flutter, the server being Appwrite.
    - [iOS App](https://apps.apple.com/hr/app/ssteh/id6444681703)
