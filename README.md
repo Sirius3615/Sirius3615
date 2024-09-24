@@ -24,7 +24,7 @@ My past work:
     - [iOS App](https://beyondspacenews.com/ios)
     - [Android App](https://beyondspacenews.com/android)
 - [ssteh.com](https://ssteh.com/)
-- Platform made for students of high schools, where they can share, and I will hold documents for their classes, app is built in Flutter, the server being Appwrite.
+- Platform made for students of high schools, where they can share, and hold documents for their classes, app is built in Flutter, the server being Appwrite.
    - [iOS App](https://apps.apple.com/hr/app/ssteh/id6444681703)
    - [Android App](https://play.google.com/store/apps/details?id=com.beyondspacenews.ssteh&pli=1)
 
