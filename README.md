@@ -14,7 +14,7 @@ My perspective leans towards the positive side of things, embracing optimism as 
 My current work:
 
 [wawehome.com](https://wawehome.com/) (WIP 🚧)
-- Smart home platform that's based on modular switches, app is built in Flutter while for the server it uses Appwrite. Hardware is built on ESP, 32 currently programmed in Arduino. Project is meant to make smart homes simple and smart again. It packs a lot of powerful features which hard to find elsewhere.
+- Smart home platform that's based on modular switches, app is built in Flutter while for the server it uses Appwrite. Hardware is built on ESP 32 currently programmed in Arduino. Project is meant to make smart homes simple and smart again. It packs a lot of powerful features which hard to find elsewhere.
     - [iOS App](https://apps.apple.com/app/wawe-home/id6471295872)
     - [Android App](https://play.google.com/store/apps/details?id=com.wawehome.app)
       
