@@ -23,10 +23,11 @@ My past work:
 - Website and app for space news, uses Space Devs Apis for data. Website is built in Nuxt and app in Flutter. 
     - [iOS App](https://beyondspacenews.com/ios)
     - [Android App](https://beyondspacenews.com/android)
-- [ssteh.com](https://ssteh.com/)
+- [ssteh.com](https://ssteh.com/) (Shut-down)
 - Platform made for students of high schools, where they can share, and hold documents for their classes, app is built in Flutter, the server being Appwrite.
    - [iOS App](https://apps.apple.com/hr/app/ssteh/id6444681703)
    - [Android App](https://play.google.com/store/apps/details?id=com.beyondspacenews.ssteh&pli=1)
+   - Web archive [link](https://web.archive.org/web/20250301190922/https://ssteh.com/)
 
 Contact me via:
 - [Email](mailto:ivan@wawehome.com)
