@@ -1,5 +1,7 @@
 # Hi I am Ivan!
 
+I’m currently studying **Electronics Engineering at FESB Split.**
+
 I develop applications and websites. I'm experienced in Flutter, Nuxt.js, Vue, Node.js, and JavaScript. Also I'm skilled in Tailwind CSS (beyondspacenews.com is build with it).
 
 In hardware development, I work with ESP32 and Arduino for ESP projects for integrated IoT solutions.
