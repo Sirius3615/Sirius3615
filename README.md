@@ -1,39 +1,60 @@
-# Hi I am Ivan!
+# Hi, I’m Ivan!
 
-I’m currently studying **Electronics Engineering at FESB Split.**
+I’m an **Electronics and Computer Engineering student at FESB**, based in Zadar, Croatia.
 
-I develop applications and websites. I'm experienced in Flutter, Nuxt.js, Vue, Node.js, and JavaScript. Also I'm skilled in Tailwind CSS (beyondspacenews.com is build with it).
+I build across the whole signal path—from electronics, PCBs, firmware, and embedded systems to native apps, web interfaces, and cloud services. I enjoy turning complex technology into products that feel useful, reliable, and straightforward.
 
-In hardware development, I work with ESP32 and Arduino for ESP projects for integrated IoT solutions.
+I’m currently open to ambitious engineering opportunities.
 
-I am also familiar with cloud-based services like Firebase and Appwrite.
+## Technologies
 
-### About me
-Hailing from Croatia, my passion lies in exploring the realms of electricity, electronics, and programming. I find joy in tinkering with these domains, fostering a deep love for innovation. Alongside my tech pursuits, I harbor a fondness for travel and savoring diverse cuisines. While my heart belongs to cats as ideal companions, I remain open to other potential pets.
+- **Hardware & embedded:** ESP32, Arduino, PCB design, IoT systems
+- **Apps:** SwiftUI, Flutter, WebKit, WidgetKit, Metal
+- **Web & backend:** Vue, Nuxt, Nitro, JavaScript, Appwrite
+- **Product development:** Three.js, 3D web, AI, product thinking
 
-My perspective leans towards the positive side of things, embracing optimism as a guiding principle. Being a self-proclaimed tech enthusiast, I eagerly anticipate the endless possibilities that the future holds, especially in the realm of electric cars and mobility.
+## Current work
 
-My current work:
+### [UNIfesb](https://ivanbegonja.com/projects/unifesb.html)
 
-[wawehome.com](https://wawehome.com/) (WIP 🚧)
-- Smart home platform that's based on modular switches, app is built in Flutter while for the server it uses Appwrite. Hardware is built on ESP 32 currently programmed in Arduino. Project is meant to make smart homes simple and smart again. It packs a lot of powerful features which hard to find elsewhere.
-    - [iOS App](https://apps.apple.com/app/wawe-home/id6471295872)
-    - [Android App](https://play.google.com/store/apps/details?id=com.wawehome.app)
-      
-My past work:
-- [beyondspacenews.com](https://beyondspacenews.com/) (Shut-down)
-- Website and app for space news, uses Space Devs Apis for data. Website is built in Nuxt and app in Flutter. 
-    - [iOS App](https://beyondspacenews.com/ios)
-    - [Android App](https://beyondspacenews.com/android)
-- [ssteh.com](https://ssteh.com/) (Shut-down)
-- Platform made for students of high schools, where they can share, and hold documents for their classes, app is built in Flutter, the server being Appwrite.
-   - [iOS App](https://apps.apple.com/hr/app/ssteh/id6444681703)
-   - [Android App](https://play.google.com/store/apps/details?id=com.beyondspacenews.ssteh&pli=1)
-   - Web archive [link](https://web.archive.org/web/20250301190922/https://ssteh.com/)
+A native, local-first student super-app bringing timetables, X-ica spending, canteen cameras, jobs, sports, and faculty information into one private experience.
 
-Contact me via:
-- [Email](mailto:ivan@wawehome.com)
-- [X/Twitter](https://x.com/IvanB_001)
-- Discord (ivan.001)
+`SwiftUI` `WebKit` `WidgetKit` `Metal`
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=b195da07ac0e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+### [Wawe Home](https://ivanbegonja.com/projects/wawe-home.html)
+
+A modular smart-home ecosystem designed to make switches, sensors, schedules, and automations straightforward.
+
+`ESP32` `PCB Design` `Flutter` `Appwrite`
+
+### [Cabinet Planner](https://ivanbegonja.com/projects/cabinet-planner.html)
+
+A browser-based 2D and 3D cabinet planner that transforms precise layouts into cut lists, bills of materials, costs, and workshop-ready reports.
+
+`Three.js` `3D Web` `Manufacturing` `AI`
+
+### [AI Wearable](https://ivanbegonja.com/projects/ai-werable.html)
+
+An exploration of what a personal assistant could become when designed as a discreet, purpose-built device.
+
+`AI` `Embedded Systems` `Interaction Design`
+
+## Previous work
+
+- **[BeyondSpaceNews](https://ivanbegonja.com/projects/beyond-space-news.html)** — A Nuxt-powered platform aggregating spaceflight news, NASA datasets, live ISS positioning, and launch data.
+- **[Luggie](https://ivanbegonja.com/projects/luggie.html)** — A mobile operations tool for resort luggage and transport teams.
+- **[Ssteh](https://ivanbegonja.com/projects/ssteh.html)** — A community platform for high-school students to find and share learning resources.
+
+## Areas that interest me
+
+My long-term interests include electric mobility, spaceflight systems, robotics, local-first AI, embedded electronics, and consumer products that make complex engineering feel simple.
+
+I’m particularly interested in battery systems, power conversion, sensing, embedded control, telemetry, and the technologies that turn energy into motion.
+
+## Let’s connect
+
+- [Portfolio](https://ivanbegonja.com/)
+- [Email](mailto:ivan@ivanbegonja.com)
+- [LinkedIn](https://www.linkedin.com/in/ivan-begonja-b820091aa)
+- [X / Twitter](https://x.com/IvanB_001)
+- [Ideas and articles](https://ivanbegonja.com/blog/)
